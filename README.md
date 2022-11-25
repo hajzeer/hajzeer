@@ -1,7 +1,9 @@
 # About me 🙋🏽‍♂️
 
 Hi there,
-- 💻  My name is Krzysztof Hajder. Currently I work as a freelance front-end developer and with my co-worker UI designer. We create websites, SPAs and e-commerces for customers in Poland and Europe. 
+- 💻  My name is Krzysztof Hajder. Currently I work as a freelance front-end developer.
+
+- 🫱🏽‍🫲🏻 Me with my co-worker UI designer. We create websites, SPAs and e-commerces for customers in Poland and Europe. 
 
 - 👨‍🎓 I graduated WSB University faculty of Computer Science (BEng Degree) 
 
