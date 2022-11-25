@@ -36,7 +36,11 @@ Hi there,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hajzeer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hajzeer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# Hobby
 
+- 🏔️ 
+- 🏀
+- 🛰️
 
 <!--
 **hajzeer/hajzeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
